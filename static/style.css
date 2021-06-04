@@ -1,0 +1,14 @@
+*{
+    /* color: red; */
+}
+.formulario {
+    width: 50%;
+    margin: auto;
+}
+
+.boton-guardar {
+    width: 70%;
+    display: block;
+    margin: auto;
+}
+
